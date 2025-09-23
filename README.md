@@ -1,5 +1,5 @@
 # Web Calculator
-
+ 
 A clean, responsive calculator built with vanilla JavaScript. No frameworks, just solid fundamentals.
 
 ## Features
