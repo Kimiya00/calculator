@@ -47,7 +47,7 @@ Or just download and double-click `index.html`. No server needed.
 - Calculate: `Enter` or `=`
 - Clear: `Escape` or `C`
 - Delete: `Backspace`
-- History: Click the button
+- History: Click the 📋 button
 
 ## Challenges I Solved
 
