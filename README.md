@@ -47,7 +47,7 @@ Or just download and double-click `index.html`. No server needed.
 - Calculate: `Enter` or `=`
 - Clear: `Escape` or `C`
 - Delete: `Backspace`
-- History: Click the 📋 button
+- History: Click the button
 
 ## Challenges I Solved
 
@@ -73,6 +73,12 @@ Also spent way too much time perfecting the button hover animations, but they ma
 
 Works in all modern browsers - Chrome 90+, Firefox 88+, Safari 14+, and mobile browsers.
 
+## Future Enhancements
+
+- [ ] Scientific calculator mode
+- [ ] Memory functions (M+, M-, MR)
+- [ ] Export calculation history
+
 ## Contact
 
 **Kimiya Razdar**  
@@ -81,4 +87,4 @@ Razdarkim@gmail.com
 
 ---
 
-Built with JavaScript, math, and probably too much coffee ☕
+Built with JavaScript, math, and probably too much coffee. 
