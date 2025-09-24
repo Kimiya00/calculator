@@ -21,14 +21,14 @@ The history feature came from personal frustration; having a calculator that rem
 ## Quick Start
 
 ```bash
-git clone https://github.com/Kimiya00/Calculator.git
-cd Calculator
+git clone https://github.com/Kimiya00/calculator.git
+cd calculator
 open index.html
 ```
 
 Or just download and double-click `index.html`. No server needed.
 
-**[Try it live →](https://kimiya00.github.io/Calculator)**
+**[Try it live →](https://kimiya00.github.io/calculator)**
 
 ## Key Features
 
